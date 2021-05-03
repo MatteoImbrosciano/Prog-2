@@ -121,6 +121,7 @@ int main()
     A* arrA_4 = new A[2]{A(2,2,2), A(10,10)};
     (arrA_4+1)->printAll(); // artmetica dei puntatori
     delete[] arrA_4;
+    // oo
 
     return 0;
 }
