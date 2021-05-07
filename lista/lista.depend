@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1620379508 source:c:\users\matte\onedrive\desktop\prog 2\esercizi\mortisanti\lista\main.cpp
+	<iostream>
+	"classe.h"
+	"classe.cpp"
+	"lista.h"
+
+1620379238 c:\users\matte\onedrive\desktop\prog 2\esercizi\mortisanti\lista\classe.h
+	<iostream>
+	<sstream>
+	<string.h>
+
+1620376186 c:\users\matte\onedrive\desktop\prog 2\esercizi\mortisanti\lista\classe.cpp
+	"classe.h"
+
+1620379544 c:\users\matte\onedrive\desktop\prog 2\esercizi\mortisanti\lista\lista.h
+	"classe.h"
+
