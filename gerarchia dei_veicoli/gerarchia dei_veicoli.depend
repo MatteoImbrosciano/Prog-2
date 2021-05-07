@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1620311675 source:c:\users\matte\onedrive\desktop\prog 2\esercizi\mortisanti\gerarchia dei_veicoli\main.cpp
+	"gerarchia.cpp"
+	"gerarchia.h"
+
+1620370082 c:\users\matte\onedrive\desktop\prog 2\esercizi\mortisanti\gerarchia dei_veicoli\gerarchia.cpp
+	"gerarchia.h"
+
+1620369716 c:\users\matte\onedrive\desktop\prog 2\esercizi\mortisanti\gerarchia dei_veicoli\gerarchia.h
+	<iostream>
+	<string.h>
+	<sstream>
+	<string>
+	<cstdlib>
+	<time.h>
+
